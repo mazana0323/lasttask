@@ -1,0 +1,723 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav p {position: absolute;
+margin-left: 12%;
+color: #22262A;
+width: 164px;
+height: 39.82px;
+top: 30px;
+}
+
+    .nav ul {
+        width: 450px;
+        height: 25.6px;
+        left: 38%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 200;
+        font-size: 14px;
+        line-height: 25px;
+        display: flex;
+        position: absolute;
+        color: #22262A;
+        list-style-type: none;
+        gap: 5%;
+        top: 30px;
+    }
+.nav a {
+    text-decoration: none;
+}
+.nav img{
+    position: absolute;
+width: 148px;
+height: 17.06px;
+left: 88%;
+top: 30px;
+}
+.trend{
+    background-image: url("assests/images/1\ 1.png");
+    width: 1592px;
+    height: 650px;
+   margin-top: 60px;
+}
+.trend h3 {
+   position: absolute;
+width: 102px;
+height: 26.87px;
+left: 60%;
+top: 486.58px;
+
+color: #22262A
+}
+.first1 {
+    position: absolute;
+width: 453px;
+height: 119.41px;
+left: 60%;
+top: 504.49px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 120px;
+color: #22262A;
+}
+.trend h6 {
+    position: absolute;
+width: 409px;
+height: 26.87px;
+left: 60%;
+top: 614.94px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+line-height: 27px;
+color: #22262A;
+}
+.discover {
+    position: absolute;
+width: 147px;
+height: 34.83px;
+left: 60%;
+top: 668.67px;
+background: #22262A;
+}
+.shop {
+    position: absolute;
+width: 147px;
+height: 34.83px;
+left: 72%;
+top: 668.67px;
+background: #22262A;
+}
+.discover h1 {
+    text-align: center;
+    padding-top: 8px;
+    color: aliceblue;
+}
+.shop h1 {
+    text-align: center;
+    padding-top:8px;
+    color: aliceblue;
+}
+.mask {
+    position: absolute;
+width: 551px;
+height: 286.84px;
+left: 15%;
+top: 951.17px;
+}
+.mask2 {
+    position: absolute;
+width: 262.19px;
+height: 265.15px;
+left: 15%;
+top: 1260.68px;
+}
+.mask3 {
+    position: absolute;
+width: 261.21px;
+height: 265.15px;
+left: 33.3%;
+top: 1260.68px;
+}
+.mask4{
+    position: absolute;
+width: 552px;
+height: 579px;
+left: 53%;
+top: 949px;
+}
+.women h1{
+    position: absolute;
+    width: 194px;
+    height: 30px;
+    left:46%;
+    top: 1639px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+    color: #22262A;
+}
+.women h6 {
+    position: absolute;
+height: 23px;
+left: 40%;
+top: 1684px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+color: #22262A;
+}
+.first{
+    position: absolute;
+width: 268px;
+height: 484px;
+left: 15%;
+top: 1772px;
+}
+.second {
+    position: absolute;
+width: 268px;
+height: 484px;
+left: 35%;
+top: 1772px;
+}
+.third {
+    position: absolute;
+    width: 268px;
+    height: 484px;
+    left: 53%;
+    top: 1772px;
+    
+}
+.fourth {
+    position: absolute;
+    width: 268px;
+    height: 484px;
+    left: 71%;
+    top: 1772px;
+}
+.men h1{
+    position: absolute;
+    width: 157px;
+    height: 30px;
+    left: 46%;
+    top: 2366px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+    color: #22262A;
+}
+.men h6 {
+    position: absolute;
+    height: 23px;
+    left: 40%;
+    top: 2411px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    color: #22262A;  
+}
+.one{
+    position: absolute;
+width: 268px;
+height: 477px;
+left: 15%;
+top: 2507px;
+}
+.two {
+    position: absolute;
+width: 268px;
+height: 477px;
+left: 35%;
+top: 2507px;
+}
+.three {
+    position: absolute;
+width: 268px;
+height: 477px;
+left: 53%;
+top: 2507px;
+}
+.four {
+    position: absolute;
+width: 268px;
+height: 477px;
+left: 71%;
+top: 2507px;
+}
+.bolo h1 {
+    position: absolute;
+width: 146px;
+height: 30px;
+left: 46%;
+top: 3094px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+text-align: center;
+color: #22262A;
+}
+.bolo h6 {
+    
+position: absolute;
+height: 23px;
+left: 44%;
+top: 3139px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+color: #22262A;
+}
+.erti {
+    position: absolute;
+    width: 552px;
+    height: 602px;
+    left: 15%;
+    top: 3309px;
+}
+.ori {
+    position: absolute;
+    width: 514px;
+    height: 451px;
+    left: 53%;
+    top: 3222px;
+    
+}
+.lastpic a {
+    position: absolute;
+    height: 23px;
+    left: 60%;
+    top: 3847px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: right;
+    color: #22262A;
+}
+.sami{
+    position: absolute;
+    width: 227px;
+    height: 281px;
+    left: 75%;
+    top: 3630px;
+}
+.tachen img {
+    position: absolute;
+width: 1592px;
+height: 745px;
+top: 4032px;
+left: -1px;
+}
+.about {
+    position: absolute;
+width: 1593px;
+height: 606px;
+left: -1px;
+top: 4700px;
+background: #F2F8FC;
+}
+.g34{
+    position: absolute;
+width: 406px;
+height: 290px;
+left: 229px;
+top: 115px;
+}
+.g32{
+    position: absolute;
+width: 532px;
+height: 385px;
+top: 115px;
+left: 832px;
+}
+.ldiv p {
+    position: absolute;
+width: 287px;
+height: 38px;
+left: 831px;
+top: 115px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 38px;
+color: #22262A;
+}
+.g28 {
+    position: absolute;
+width: 532px;
+height: 45px;
+left: 820px;
+top: 170px;
+}
+.shopp {
+    position: absolute;
+width: 76px;
+height: 208px;
+left: 816px;
+top: 250px;
+}
+.help {
+    position: absolute;
+width: 173px;
+height: 208px;
+left: 980px;
+top: 250px;
+}
+.aabout {
+    
+position: absolute;
+width: 107px;
+height: 208px;
+left: 1241px;
+top: 250px;
+}
+.copyright {
+    position: absolute;
+width: 1592px;
+height: 93px;
+left: 0px;
+top: 5293px;
+background: #E7F5F8;
+}
+.copyright h1 {
+    padding-top: 2.5%;
+    padding-left: 37%;
+}
+@media all and (max-width: 768px) {
+    .nav ul {
+        left:300px
+    }
+    .nav img {
+       display: none;
+    }
+    .first1 {
+        left: 200px;
+    }
+    .trend{
+        width: 768px;
+    }
+    .trend h6 {
+        left: 200px;
+    }
+    .discover {
+        left: 200px;
+    }
+    .shop {
+        left: 400px;
+    }
+   .trend h3 {
+        left: 200px;
+   }
+    .mask {
+        display: none;
+    }
+    .mask2 {
+        display: none;
+    }
+    .mask3 {
+        display: none;
+    }
+    .mask4 {
+        display: none;
+    }
+    .women h1 {
+        display: none;
+    }
+    .women h6 {
+        left: 96%;
+        font-size: 0px;
+    }
+    .first {
+        left: 0px;
+        width: 768px;
+        top: 800px;
+    }
+    .second {
+        left: 0px;
+        width: 768px;
+        top: 1500px;
+    }
+    .third {
+        left: 0px;
+        width: 768px;
+        top: 2000px;
+    }
+    .fourth {
+        left: 0px;
+        width: 768px;
+        top: 2500px;
+    }
+    .men h1 {
+        display: none;
+    }
+     .men h6 {
+        left: 96%;
+        font-size: 0px;
+    }
+    .one {
+        left:0px;
+        width: 768px;
+        top: 3000px;
+    }
+    .two {
+        left: 0px;
+        width: 768px;
+        top: 3500px;
+    }
+    .three {
+        left: 0px;
+        width: 768px;
+        top: 4000px;
+    }
+    .four {
+        left: 0px;
+        width: 768px;
+        top: 4500px;
+    }
+    .erti {
+        display: none;
+    }
+    .ori {
+        display: none;
+    }
+    .sami {
+        display: none;
+    }
+    .bolo h1 {
+        display: none;
+    }
+    .bolo h6 {
+        left: 105%;
+        font-size: 0px;
+    }
+    .lastpic a {
+        display: none;
+    }
+   .tachen img {
+    display: none;
+   }
+   .about {
+    display: none;
+   }
+   .copyright {
+    display: none;
+   } 
+}
+@media all and (max-width: 412px) {
+.nav p {
+    font-size: 0px;
+}
+.nav ul {
+    left: 2%;
+    gap: 10px;
+}
+.nav img {
+    display: none;
+}
+.trend {
+    width: 412px;
+}
+.trend h3 {
+    left: 0px;
+}
+.first1 {
+    left: 0px;
+    font-size: 50px;
+}
+.trend h6 {
+    left: 0px;
+}
+.discover {
+    left: 0px;
+}
+.shop {
+    left: 200px;
+}
+.mask{ 
+    left: 0px;
+    width: 412px;
+    top: 710px;
+}
+.mask2 {
+    display: none;
+}
+.mask3 {
+    display: none;
+}
+.mask4 {
+    left: 0px;
+    top: 920px;
+    width: 412px;
+}
+.women h1 {
+    display: none;
+}
+.women h6 {
+    display: none;
+}
+.first {
+    width: 412px;
+    left: 0px;
+    top: 1500px;
+}
+.second {
+    width: 412px;
+    left: 0px;
+    top: 2000px;
+}
+.third {
+    width: 412px;
+    left: 0px;
+    top: 2500px;
+}
+.fourth {
+    width: 412px;
+    left: 0px;
+    top: 3000px;
+}
+.one {
+    width: 412px;
+    left: 0px;
+    top: 3500px;
+}
+.two {
+    width: 412px;
+    left: 0px;
+    top: 4000px;
+}
+.three {
+    width: 412px;
+    left: 0px;
+    top: 4500px;
+}
+.four {
+    width: 412px;
+    left: 0px;
+    top: 5000px;
+}
+.lastpic {
+    display: none;
+}
+.about {
+    display: none;
+}
+.copyright {
+   display: none;
+}
+.tachen {
+    display: none;
+}
+}
+
+@media all and (max-width: 320px) {
+.nav p {
+    font-size: 0px;
+}
+.nav ul {
+    left: 0%;
+    gap: 5px;
+    font-size: 10px;
+}
+.nav img {
+    display: none;
+}
+.trend {
+    width: 320px;
+}
+.trend h3 {
+    left: 0px;
+}
+.first1 {
+    left: 0px;
+    font-size: 40px;
+}
+.trend h6 {
+    left: 0px;
+    font-size: 12px;
+}
+.discover {
+    left: 0px;
+}
+.shop {
+    left: 150px;
+}
+.mask{ 
+    left: 0px;
+    width: 320px;
+    top: 710px;
+}
+.mask2 {
+    display: none;
+}
+.mask3 {
+    display: none;
+}
+.mask4 {
+    left: 0px;
+    top: 920px;
+    width: 320px;
+}
+.women h1 {
+    display: none;
+}
+.women h6 {
+    display: none;
+}
+.first {
+    width: 320px;
+    left: 0px;
+    top: 1500px;
+}
+.second {
+    width: 320px;
+    left: 0px;
+    top: 2000px;
+}
+.third {
+    width: 320px;
+    left: 0px;
+    top: 2500px;
+}
+.fourth {
+    width: 320px;
+    left: 0px;
+    top: 3000px;
+}
+.one {
+    width: 320px;
+    left: 0px;
+    top: 3500px;
+}
+.two {
+    width: 320px;
+    left: 0px;
+    top: 4000px;
+}
+.three {
+    width: 320px;
+    left: 0px;
+    top: 4500px;
+}
+.four {
+    width: 320px;
+    left: 0px;
+    top: 5000px;
+}
+.lastpic {
+    display: none;
+}
+.about {
+    display: none;
+}
+.copyright {
+   display: none;
+}
+.tachen {
+    display: none;
+}
+}
